@@ -1,2 +1,2 @@
 # IMScraper
-Simple and fast website scraping tool, interfaces with DataForSEO, Ahrefs and Majestic
+Simple and fast Flask web app for website scraping using DataForSEO, Ahrefs and Majestic. Let's you fetch metrics important for link building SEO tasks, filtering websites that fail your tresholds.
